@@ -20,7 +20,7 @@ body{
 }
 
 .cabeçalho{
-    background-color: hsl(244, 100%, 55%);
+    background-color: aqua;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -52,7 +52,7 @@ body{
 .lista-menu-titulo,
 .lista-menu-item{
     padding: 1em;
-    background-color: var(--branco);
+    background-color: #FFFFFF;
 }
 
 .lista-menu-link{
@@ -72,7 +72,7 @@ body{
 }
 
 .banner{
-    background-color: var(--branco);
+    background-color: aqua;
     color: rgb(0, 0, 0);
     text-align: center;
     font-size: 30px;
@@ -104,7 +104,7 @@ body{
 
 .carrossel-titulo{
     color: var(---fonte);
-    background-color: var(--branco);
+    background-color: #FFFFFF;
     text-align: center;
     text-transform: uppercase;
     font-weight: 700;
